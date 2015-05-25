@@ -1,5 +1,5 @@
 {
-    "name": "KonstantinKolodnitsky/laravel-translation-manager",
+    "name": "konstantinkolodnitsky/laravel-translation-manager",
     "description": "Manage Laravel Translations",
     "keywords": ["laravel", "translations", "translator"],
     "license": "MIT",
